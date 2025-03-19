@@ -23,7 +23,7 @@ This script provides a generic example of how the user can load our pretrained m
 
 The following is a very handy tutorial for users that might have very limited knowledge of python.
 
-First lets install and import the modules that we will use:
+First let's install and import the modules that we will use:
 
 ```
 !pip install joblib
@@ -37,7 +37,7 @@ import joblib
 import pickle
 ```
 
-Next, lets load the pre-trained model. In this example we will use Elastic Net:
+Next, let's load the pre-trained model. In this example we will use Elastic Net:
 
 ```
 model = joblib.load('ElasticNet.pkl')
