@@ -21,11 +21,18 @@ This script provides a generic example of how the user can load our pretrained m
 
 ## **How to get started**
 
+```
+#Import modules
 
+!pip install joblib
+!pip install pandas
+!pip install numpy
+!pip install pickle
+
+import pandas as pd
+import numpy as np
+import joblib
+import pickle
 ```
 
- def hello():
-    print("Hello, world!")
-
-```
 
