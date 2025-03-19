@@ -15,7 +15,7 @@ In the "Metabolite_prediction_example.ipynb" a simple workflow for the predictio
 
 ## **How to use the pre-trained models**
 
-This script provides a generic example of how the user can load our pretrained models to predict metabolite levels directly from RNA sequencing data.
+This script provides a generic example of how the user can load our pretrained models to predict metabolite levels directly from RNA sequencing data. A few things to keep in mind:
 - The RNA sequencing data must be in TPM format (csv file, sample names in rows, gene names in columns).
 - The name of the predicted metabolites must be loaded by the provided file ("y_train_features.pkl" which can be found in the same files as the pre-trained models), as the saved model does not include output names.
 
