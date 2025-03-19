@@ -24,3 +24,4 @@ This script provides a generic example of how the user can load our pretrained m
 '''
 pd.read_csv
 '''
+<details> <summary>Basic Code Block</summary>
