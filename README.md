@@ -95,7 +95,7 @@ predictions.to_csv('predictions.csv', index = True)
 
 # **How to cite us**
 
-If you found these models usefull and you used them please cite our paper:
+If you found these models useful and you used them please cite our paper:
 
 
 
