@@ -21,9 +21,9 @@ This script provides a generic example of how the user can load our pretrained m
 
 ## **How to get started**
 
-```
-#Import modules
+First lets install and import the modules that we will use:
 
+```
 !pip install joblib
 !pip install pandas
 !pip install numpy
@@ -35,4 +35,23 @@ import joblib
 import pickle
 ```
 
+Next, lets load the pre-trained model. In this example we will use Elastic Net:
+
+```
+model = joblib.load('ElasticNet.pkl')
+```
+
+And let's get the model training and output feature names:
+
+```
+#Input features
+model_features = model.feature_names_in_
+print(model_features)
+
+#Load y features
+with open('y_train_features.pkl', 'rb') as f:
+    y_train_features_loaded = pickle.load(f)
+
+print(y_train_features_loaded)
+```
 
