@@ -92,7 +92,6 @@ And finally we can save our results to a csv file:
 predictions.to_csv('predictions.csv', index = True)
 ```
 
-
 # **How to cite us**
 
 If you found these models useful and you used them please cite our paper:
