@@ -27,5 +27,4 @@ This script provides a generic example of how the user can load our pretrained m
  def hello():
     print("Hello, world!")
 
- ```
 
