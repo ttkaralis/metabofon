@@ -19,3 +19,8 @@ This script provides a generic example of how the user can load our pretrained m
 - The RNA sequencing data must be in TPM format (csv file, sample names in rows, gene names in columns).
 - The name of the predicted metabolites must be loaded by the provided file ("y_train_features.pkl" which can be found in the same files as the pre-trained models), as the saved model does not include output names.
 
+## **How to get started**
+
+'''
+pd.read_csv
+'''
