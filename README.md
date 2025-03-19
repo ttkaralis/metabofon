@@ -21,14 +21,9 @@ This script provides a generic example of how the user can load our pretrained m
 
 ## **How to get started**
 
-```markdown```
+```markdown
+```
  def hello():
     print("Hello, world!")
  ```
 
-<pre>
-<code>
-def hello():
-    print("Hello, world!")
-</code>
-</pre>
