@@ -135,7 +135,7 @@ Optionally, you can perform log2 transformation of the data. The code below adds
 rna = rna.apply(lambda x: np.log2(x + 1))
 ```
 
-Next, filter the genes that are present in our model. In this case, the metabolism associated-genes. Genes that might not be found in our RNA-Seq data are found added with NaN values:
+Next, filter the genes that are present in our model. In this case, the metabolism associated-genes. Genes that might not be found in our RNA-Seq data are added with NaN values:
 
 ```
 features_not_in_data = list(set(model_features) - set(rna.columns))
