@@ -34,6 +34,16 @@ Using the pre-trained models from this repository it is easy to predict metabolo
 
 Here is a map of what is included in this repository: 
 
+## 📂 pretrained_models
+
+### 📁 Cell_line_models  
+- 📁 ElasticNet.pkl
+- 📁 y_train_features.pkl
+
+### 📁 Tissue_line_models  
+- 📁 ElasticNet.pkl
+- 📁 y_train_features.pkl
+
 ## 📂 python_scripts  
 
 ### 📁 Cell_line_models  
