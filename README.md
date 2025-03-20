@@ -12,6 +12,37 @@ All the scripts utilized for this study are availble in the "python_scripts" fil
 
 ## **Navigating the files**
 
+Here is a map of what is included in this repository:
+
+Python_scripts
+----------------------
+    Cell_line_models
+        Cell_model_validation
+            Comparing_predictions_with_LCMS.ipynb
+        Cell_model_training
+            CCLE_ensemble_model.ipynb
+            Comparison_of_top_predicted_metabolites_per_model_for_CCLE.ipynb
+            Metabollite_prediction_ML_CCLE_model_selection.ipynb
+            Preparing_CCLE_data.ipynb
+    Tissue_models
+        Tissue_model_validation
+            Fudan_model_assessment.ipynb
+            Microarrays_model_assessment.ipynb
+            Preparing_Fudan_validation_data.ipynb
+            Preparing_microarray_validation_data.ipynb
+        Tissue_model_training      
+            Comparison_of_top_predicted_metabolites_per_model_for_tissues.ipynb
+            Metabollite_prediction_ML_tissues_model_selection.ipynb
+            Preparing_tissue_training_data.ipynb
+            Tissue_ensemble_model.ipynb
+            
+    Other_scripts
+        get_metabolism_genes_from_Human_GEM.ipynb
+        Metabolite_prediction_example.ipynb
+        Plots.ipynb
+        Tumor_cell_composition.ipynb
+        
+        
 # **User guidance**
 
 In the "Metabolite_prediction_example.ipynb" a simple workflow for the prediction of metabolomics from RNA-Sequencing is described.
