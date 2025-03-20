@@ -87,10 +87,10 @@ This repository contains Python scripts organized into different modules for mod
 - 📜 `Tissue_ensemble_model.ipynb`  
 
 ### 📁 Other Scripts  
-- 📜 `get_metabolism_genes_from_Human_GEM.ipynb`  
-- 📜 `Metabolite_prediction_example.ipynb`  
-- 📜 `Plots.ipynb`  
-- 📜 `Tumor_cell_composition.ipynb`  
+- 📜 get_metabolism_genes_from_Human_GEM.ipynb 
+- 📜 Metabolite_prediction_example.ipynb 
+- 📜 Plots.ipynb
+- 📜 Tumor_cell_composition.ipynb
 
 ---  
 
