@@ -6,7 +6,7 @@ Metabolic rewiring has long been recognized as an essential step for tumour grow
 # **General information**
 This project describes a machine learning framework that predicts metabolomics from gene expression data.
 
-The pre-trained models are available to download from the "models" file. The cell line and tissue models are stored in the respective files.
+The pre-trained models are available to download from the "pretrained_models" file. The cell line and tissue models are stored in the respective files.
 
 All the scripts utilized for this study are availble in the "python_scripts" file. This contains separately the scripts used for cell lines and tissues.
 
