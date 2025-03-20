@@ -9,6 +9,9 @@ The pre-trained models are available to download from the "models" file. The cel
 
 All the scripts utilized for this study are availble in the "python_scripts" file. This contains separately the scripts used for cell lines and tissues.
 
+
+## **Navigating the files**
+
 # **User guidance**
 
 In the "Metabolite_prediction_example.ipynb" a simple workflow for the prediction of metabolomics from RNA-Sequencing is described.
