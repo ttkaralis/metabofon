@@ -15,7 +15,7 @@ All the scripts utilized for this study are availble in the "python_scripts" fil
 Here is a map of what is included in this repository:
 
 Python_scripts
-----------------------
+--------------
     Cell_line_models
     ----------------
         
@@ -53,8 +53,53 @@ Python_scripts
         Metabolite_prediction_example.ipynb
         Plots.ipynb
         Tumor_cell_composition.ipynb
-        
-        
+
+
+
+
+# Project File Structure  
+
+This repository contains Python scripts organized into different modules for modeling and validating cell line and tissue-based predictions.  
+
+## 📂 Python Scripts  
+
+### 📁 Cell Line Models  
+#### 📂 Cell Model Validation  
+- 📜 `Comparing_predictions_with_LCMS.ipynb`  
+
+#### 📂 Cell Model Training  
+- 📜 `CCLE_ensemble_model.ipynb`  
+- 📜 `Comparison_of_top_predicted_metabolites_per_model_for_CCLE.ipynb`  
+- 📜 `Metabolite_prediction_ML_CCLE_model_selection.ipynb`  
+- 📜 `Preparing_CCLE_data.ipynb`  
+
+### 📁 Tissue Models  
+#### 📂 Tissue Model Validation  
+- 📜 `Fudan_model_assessment.ipynb`  
+- 📜 `Microarrays_model_assessment.ipynb`  
+- 📜 `Preparing_Fudan_validation_data.ipynb`  
+- 📜 `Preparing_microarray_validation_data.ipynb`  
+
+#### 📂 Tissue Model Training  
+- 📜 `Comparison_of_top_predicted_metabolites_per_model_for_tissues.ipynb`  
+- 📜 `Metabolite_prediction_ML_tissues_model_selection.ipynb`  
+- 📜 `Preparing_tissue_training_data.ipynb`  
+- 📜 `Tissue_ensemble_model.ipynb`  
+
+### 📁 Other Scripts  
+- 📜 `get_metabolism_genes_from_Human_GEM.ipynb`  
+- 📜 `Metabolite_prediction_example.ipynb`  
+- 📜 `Plots.ipynb`  
+- 📜 `Tumor_cell_composition.ipynb`  
+
+---  
+
+Each folder contains Jupyter notebooks related to different aspects of the modeling process, from data preparation to model training and validation.  
+
+
+
+
+
 # **User guidance**
 
 In the "Metabolite_prediction_example.ipynb" a simple workflow for the prediction of metabolomics from RNA-Sequencing is described.
