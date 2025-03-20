@@ -2,6 +2,15 @@
 
 Metabolic rewiring has long been recognized as an essential step for tumour growth and progression. Despite this, metabolomics is lagging behind other omics technologies, and large-scale metabolomic studies are missing. To address this issue, we developed a machine learning framework that allows prediction of metabolomics from gene expression data. Two different model types were selected and trained for tissues and cell lines, and were validated in independent data sets. Our data reveal that as high as 70-80% of tested metabolites can be correctly inferred from gene expression data across both cancer tissues and cell lines. This pipeline offers a promising approach for tracking cancer metabolism by analysing novel and existing datasets where only gene expression data is available.
 
+
+# **General information**
+This project describes a machine learning framework that predicts metabolomics from gene expression data.
+
+The pre-trained models are available to download from the "models" file. The cell line and tissue models are stored in the respective files.
+
+All the scripts utilized for this study are availble in the "python_scripts" file. This contains separately the scripts used for cell lines and tissues.
+
+
 ## **Model training**
 
 Initially, we tested 8 different models for their ability to predict metabolomics from gene expression data. We trained cell line and tissue specific models:
@@ -13,13 +22,6 @@ Initially, we tested 8 different models for their ability to predict metabolomic
 The best models were selected and validated with independent tissue and cell line gene expression and metabolomic data:
 
 ![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/dc080d978904a063cbe90fae17a779923931d37a/image_2.jpg)
-
-# **General information**
-This project describes a machine learning framework that predicts metabolomics from gene expression data.
-
-The pre-trained models are available to download from the "models" file. The cell line and tissue models are stored in the respective files.
-
-All the scripts utilized for this study are availble in the "python_scripts" file. This contains separately the scripts used for cell lines and tissues.
 
 ## **Pipeline**
 
