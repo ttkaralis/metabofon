@@ -40,7 +40,7 @@ Here is a map of what is included in this repository:
 - 📁 ElasticNet.pkl
 - 📁 y_train_features.pkl
 
-### 📁 Tissue_line_models  
+### 📁 Tissue_models  
 - 📁 ElasticNet.pkl
 - 📁 y_train_features.pkl
 
