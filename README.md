@@ -12,28 +12,28 @@ All the cell line and tissue pre-trained models along with the scripts can be do
 
 Initially, we tested different traditional machine learning models for their ability to predict metabolomics from gene expression data. We trained cell line and tissue specific models:
 
-<img src="./image_1.jpg" width="400">
+![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_1.jpg)
 
 We also tested different deep learning architectures to predict metabolomics in tissues:
 
-<img src="./image_4.jpg" width="400">
+![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_4.jpg)
 
 
 ## **Model validation**
 
 The best models were selected and validated with independent tissue and cell line gene expression and metabolomic data:
 
-<img src="./image_2" width="400">
+![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_2.jpg)
 
 And subsequently we combined the best model from the traditional machine learning approach with the best deep learning model:
 
-<img src="./image_5" width="400">
+![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_5.jpg)
 
 ## **Pipeline**
 
 Using the pre-trained models from this repository it is easy to predict metabolomics straight from gene expression (RNA-Seq or microarrays):
 
-<img src="./image_3" width="400">
+![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_3.jpg)
 
 # **User guidance**
 
