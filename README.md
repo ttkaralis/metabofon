@@ -15,7 +15,9 @@ Initially, we tested different traditional machine learning models for their abi
 
 ![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/dc080d978904a063cbe90fae17a779923931d37a/image_1.jpg)
 
-We alos tested different deep learning architectures to predict metabolomics in tissues.
+We also tested different deep learning architectures to predict metabolomics in tissues.
+
+![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/db8939ef6c0c42e8a21286b7048975b7fd558543/image_4.jpg)
 
 
 ## **Model validation**
@@ -23,6 +25,10 @@ We alos tested different deep learning architectures to predict metabolomics in 
 The best models were selected and validated with independent tissue and cell line gene expression and metabolomic data:
 
 ![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/dc080d978904a063cbe90fae17a779923931d37a/image_2.jpg)
+
+And subsequently we combined the best model from the traditional machine learning approach with the best deep learning model.
+
+![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/db8939ef6c0c42e8a21286b7048975b7fd558543/image_5.jpg)
 
 ## **Pipeline**
 
