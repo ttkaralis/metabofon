@@ -23,7 +23,6 @@ We also tested different deep learning architectures to predict metabolomics in 
 ## **Model validation**
 
 The best models were selected and validated with independent tissue and cell line gene expression and metabolomic data:
-<img src="[image-link.png](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/dc080d978904a063cbe90fae17a779923931d37a/image_2.jpg)" width="400">
 
 ![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/dc080d978904a063cbe90fae17a779923931d37a/image_2.jpg)
 
