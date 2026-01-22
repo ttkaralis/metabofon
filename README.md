@@ -7,7 +7,7 @@ Metabolic rewiring has long been recognized as an essential step for tumour grow
 This project presents a machine learning framework that predicts metabolomics from gene expression data.
 
 All the cell line and tissue pre-trained models along with the scripts can be downloaded from https://zenodo.org/.
-
+<img src="[image-link.png](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/dc080d978904a063cbe90fae17a779923931d37a/image_1.jpg)" width="400">
 
 ## **Model training**
 
