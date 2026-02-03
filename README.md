@@ -37,13 +37,10 @@ Using the pre-trained models from this repository it is easy to predict metabolo
 
 # **User guidance**
 
-In the "Script_for_the_user" we describe a simple workflow for the prediction of metabolomics from RNA-Sequencing data.
-
-## **How to use the pre-trained models**
-
-This script provides a generic example of how the user can load our pretrained models to predict metabolite levels directly from RNA sequencing data. A few things to keep in mind:
+In the "Script_for_the_user" we describe a simple workflow for the prediction of metabolomics from RNA-Sequencing data. A few things to keep in mind:
 - The RNA sequencing data must be in TPM format (csv file, sample names in rows, gene names in columns).
-- The name of the predicted metabolites must be loaded by the provided file ("y_train_features.pkl" which can be found in the same files as the pre-trained models), as the saved model does not include output names.
+- The gene features must be named with the stable Ensembl ID format, e.g.
+- The script is designed to use only human Ensemble IDs. If you want to use data derived from other organisms (i.e. mouse) you have to perform orthology mapping elsewhere.
 
 # **How to cite us**
 
