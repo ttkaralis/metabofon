@@ -38,8 +38,9 @@ Using the pre-trained models from this repository it is easy to predict metabolo
 # **User guidance**
 
 In the "Script_for_the_user" we describe a simple workflow for the prediction of metabolomics from RNA-Sequencing data. A few things to keep in mind:
-- The RNA sequencing data must be in TPM format (csv file, sample names in rows, gene names in columns).
-- The gene features must be named with the stable Ensembl ID format, e.g.
+- The RNA sequencing data must be in the following format: ".csv" file, sample names in rows, gene names in columns.
+- The RNA sequencing data must be TPM-normalized.
+- The gene features must be named with the stable Ensembl ID format, e.g. ENSG00000121879
 - The script is designed to use only human Ensemble IDs. If you want to use data derived from other organisms (i.e. mouse) you have to perform orthology mapping elsewhere.
 
 # **How to cite us**
