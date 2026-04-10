@@ -47,6 +47,19 @@ In the "Script_for_the_user" we describe a simple workflow for the prediction of
 
 If you found these models useful and you used them please cite our paper:
 
+Metabofon infers tumour metabolomes from transcriptomic signatures to map oncogenic vulnerabilities
+
+Theodoros Karalis (1), Aurelien Tripp (1), Agustina Salis Torres (1), Manas Kohli (1), Rachel Alcraft (2), Dandan Zhang (3), George Poulogiannis (1)
+
+(1) Signalling and Cancer Metabolism Laboratory, Division of Cell and Molecular Biology, The Institute of Cancer Research; 237 Fulham Road, London SW3 6JB, United Kingdom
+
+(2) Research Software Engineering Group, The Institute of Cancer Research; 237 Fulham Road, London SW3 6JB, United Kingdom
+
+(3) The Department of Bioengineering, Translation and Innovation Hub, Imperial College, London UK 
+
+
+
+
 
 
 
