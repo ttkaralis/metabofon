@@ -16,24 +16,24 @@ Initially, we tested different traditional machine learning models for their abi
 
 We also tested different deep learning architectures to predict metabolomics in tissues:
 
-![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_4.jpg)
+![image alt](https://github.com/ttkaralis/metabofon/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_4.jpg)
 
 
 ## **Model validation**
 
 The best models were selected and validated with independent tissue and cell line gene expression and metabolomic data:
 
-![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_2.jpg)
+![image alt](https://github.com/ttkaralis/metabofon/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_2.jpg)
 
 And subsequently we combined the best model from the traditional machine learning approach with the best deep learning model:
 
-![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_5.jpg)
+![image alt](https://github.com/ttkaralis/metabofon/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_5.jpg)
 
 ## **Pipeline**
 
 Using the pre-trained models from this repository it is easy to predict metabolomics straight from gene expression (RNA-Seq or microarrays):
 
-![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_3.jpg)
+![image alt](https://github.com/ttkaralis/metabofon/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_3.jpg)
 
 # **User guidance**
 
