@@ -12,7 +12,7 @@ All the cell line and tissue pre-trained models along with the scripts can be do
 
 Initially, we tested different traditional machine learning models for their ability to predict metabolomics from gene expression data. We trained cell line and tissue specific models:
 
-![image alt](https://github.com/ttkaralis/metabolite_prediction_from_gene_expression/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_1.jpg)
+![image alt](https://github.com/ttkaralis/metabofon/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_1.jpg)
 
 We also tested different deep learning architectures to predict metabolomics in tissues:
 
