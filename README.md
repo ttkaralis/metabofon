@@ -23,7 +23,7 @@ We also tested different deep learning architectures to predict metabolomics in 
 
 The best models were selected and validated with independent tissue and cell line gene expression and metabolomic data:
 
-![image alt](https://github.com/ttkaralis/metabofon/blob/6ed5caa0b62d48571bd7b1fd2ef83ce6b727465c/image_2.jpg)
+![image alt](https://github.com/ttkaralis/metabofon/blob/b10d2d28111dbf8fa2f002a0c7bac08368035c98/image_2.jpg)
 
 And subsequently we combined the best model from the traditional machine learning approach with the best deep learning model:
 
